@@ -1,4 +1,4 @@
-### Project members: Cuiqing Li, Jiayin Yi, Yuan Zhou, Peiyuan Gao
+### Project members: Cuiqing Li, Jiayin Yi, Yuan Zhou, Peiheng Gao
 ### Class: Data Mining class of JHU
 ### Time: Fall 2019
 
