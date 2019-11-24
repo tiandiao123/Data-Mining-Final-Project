@@ -3,6 +3,6 @@
 ### Time: Fall 2019
 
 
-The project is used to apply machine learning algorithms to predict bankruptcy of the banks
+The project is used to apply machine learning algorithms to predict forest cover type
 
 source: https://www.kaggle.com/c/companies-bankruptcy-forecast/overview
