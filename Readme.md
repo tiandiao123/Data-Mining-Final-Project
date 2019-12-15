@@ -5,4 +5,4 @@
 
 The project is used to apply machine learning algorithms to predict forest cover type
 
-source: https://www.kaggle.com/c/companies-bankruptcy-forecast/overview
+source: https://www.kaggle.com/c/forest-cover-type-prediction
